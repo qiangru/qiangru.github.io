@@ -3,12 +3,12 @@ User-agent: *
 Allow: /
 Allow: /archives/
 
-Disallow: /vendors/
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /vendors/
-Disallow: /fancybox/
+# Disallow: /vendors/
+# Disallow: /js/
+# Disallow: /css/
+# Disallow: /fonts/
+# Disallow: /vendors/
+# Disallow: /fancybox/
 
 Sitemap: http://qiangru.github.io/sitemap.xml
 Sitemap: http://qiangru.github.io/baidusitemap.xml
