@@ -5,16 +5,38 @@
     
   <url>
     <loc>http://yoursite.com/2016/03/13/%E8%B0%A2%E8%82%89%E8%8A%82/</loc>
-    <lastmod>2016-03-13T17:01:37.036Z</lastmod>
+    <lastmod>2016-03-13T17:07:34.686Z</lastmod>
     <data>
         <display>
         <title>谢肉节</title>
         <pubTime>2016-03-13T12:26:09.000Z</pubTime>
         
-        <tag>莫斯科节日 谢肉节</tag>
+        <tag>莫斯科节日</tag>
+         
+        <tag>谢肉节</tag>
          
          
            
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/03/09/%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E4%B9%8B%E6%97%85-%E9%9B%85%E5%B0%94%E5%A1%94/</loc>
+    <lastmod>2016-03-13T17:05:31.899Z</lastmod>
+    <data>
+        <display>
+        <title>克里米亚之旅-雅尔塔</title>
+        <pubTime>2016-03-09T18:41:21.000Z</pubTime>
+        
+        <tag>克里米亚,雅尔塔</tag>
+         
+         
+           
+             
+              <breadCrumb title="游" url="http://yoursite.com/categories/%E6%B8%B8/"/>
+          
         </display>
     </data>
     </url>
@@ -70,26 +92,6 @@
         <pubTime>2016-03-07T18:41:21.000Z</pubTime>
         
         <tag>克里米亚</tag>
-         
-         
-           
-             
-              <breadCrumb title="游" url="http://yoursite.com/categories/%E6%B8%B8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2016/03/09/%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E4%B9%8B%E6%97%85-%E9%9B%85%E5%B0%94%E5%A1%94/</loc>
-    <lastmod>2016-03-13T07:51:52.077Z</lastmod>
-    <data>
-        <display>
-        <title>克里米亚之旅-雅尔塔</title>
-        <pubTime>2016-03-09T18:41:21.000Z</pubTime>
-        
-        <tag>克里米亚 雅尔塔</tag>
          
          
            
